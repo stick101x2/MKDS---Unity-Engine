@@ -1,0 +1,12 @@
+Title;Description;Scene Name;Script;Version
+Play Midi with script;How to integrate MPTK by script in your application. Use of the MPTK API with a few lines of code. Use of the MPTK API.;TestMidiFilePlayerScripting;TestMidiFilePlayerScripting.cs;Free
+Multi Midi Player;Four MidiFilePlayer prefabs are defined on a scene with the camera moving on each to experiment the "Playing on distance" and "Spatialization" function.;TestMidiFilePlayerMulti;No MPTK script;Free
+Midi Stream Music;How to generate music without any Midi files with a few lines of code.;TestMidiStream;TestMidiStream.cs;Free
+Catch Music;Midi is read from a MidiFilePlayer but playing music is delayed in time. Could become a game!;CatchMusic;MusicView.cs;Free
+Midi Play List;Demonstration of the prefab MidiListPlayer able to play a list of Midi files;TestMidiPlayList;No script;Pro
+Euclidean Rhythm;The greatest common divisor of two numbers is used rhythmically giving the number of beats and silences, generating almost all of the most important World Music rhythms.;EuclideanRhythm;TestEuclideanRhythme;Pro
+Write Midi File;Four methods to create and write a Midi file with MPTK. Contains also a light music sequencer.;TestMidiWriter;TestMidiWriter.cs;Pro
+Play External Midi;Select Midi file from your desktop or from a Web site and play;TestExternalMidiPlay;TestExternalMidiPlay.cs;Pro
+Midi Spatialization;An erratic sphere playing Midi music to experiment the "Spatialization" function.;TestMidiSpatialization;No MPTK script;Free
+Channel Spatialization;Each instrument/channel get a 3D position. You can fly between them and locate each.;SpatializerFly;TestSpatializerFly.cs;Pro
+

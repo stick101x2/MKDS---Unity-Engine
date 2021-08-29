@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl mat_bomb_core1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\effect\\bombhei_bomb_bmd\\Textures\\bomb_grad_5.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\effect\\bombhei_bomb_bmd\\Textures\\bomb_grad_5.tga
+
+newmtl mat_bomb_shock
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\effect\\bombhei_bomb_bmd\\Textures\\shock_grad_1.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\effect\\bombhei_bomb_bmd\\Textures\\shock_grad_1.tga

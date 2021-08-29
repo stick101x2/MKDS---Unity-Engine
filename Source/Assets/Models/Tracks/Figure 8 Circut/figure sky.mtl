@@ -1,0 +1,26 @@
+# Blender MTL File: 'figure8.blend'
+# Material Count: 2
+
+newmtl sky_tx
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\tmoun\Desktop\Chromes\CHRISTOPHER STUFF\Games\sm64\DS\apicula-latest-x86_64-pc-windows-msvc\dae files kart ds\nc_sky02.png
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\DS\\apicula-latest-x86_64-pc-windows-msvc\\dae files kart ds\\nc_sky02.png
+
+newmtl sky_tx_NONE
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\DS\\apicula-latest-x86_64-pc-windows-msvc\\dae files kart ds\\nc_sky02.png
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\DS\\apicula-latest-x86_64-pc-windows-msvc\\dae files kart ds\\nc_sky02.png

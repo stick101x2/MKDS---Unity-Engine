@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ecdae3cd4a0734d11a3bd6744c7d66be
+labels:
+- shadow
+- volume
+- toolkit
+- dynamic
+- lighting
+- shadows
+- shade
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

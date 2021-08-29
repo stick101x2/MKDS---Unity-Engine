@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c710f3ac30946c499b54f8f6df48fd6, type: 3}
+  m_Name: Fake Item Box
+  m_EditorClassIdentifier: 
+  Name: Item Fake Box
+  prefab: {fileID: 7058629570485741588, guid: dbda716ec47ccea4099a0f97901b13a2, type: 3}
+  icon: {fileID: 21300000, guid: f80ba879637361c4cb12d8ce19a4db6a, type: 3}
+  uses: 1
+  duration: 0
+  spawnSpeed: 40
+  spawnHeight: 10

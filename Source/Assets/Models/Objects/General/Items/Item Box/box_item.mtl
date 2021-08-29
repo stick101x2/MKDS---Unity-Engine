@@ -1,0 +1,62 @@
+# Blender MTL File: 'general.blend'
+# Material Count: 5
+
+newmtl mat_boxin
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\tmoun\Desktop\Chromes\CHRISTOPHER STUFF\Games\sm64\dolphin\Mario Kart - Double Dash!! (USA)\Mario Kart - Double Dash!! (USA) EX\MRAM.arc_dir\mram\item\itembox_lan_bmd\Textures\mk_itembox64.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_lan_bmd\\Textures\\mk_itembox64.tga
+
+newmtl mat_boxin.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\tmoun\Desktop\Chromes\CHRISTOPHER STUFF\Games\sm64\dolphin\Mario Kart - Double Dash!! (USA)\Mario Kart - Double Dash!! (USA) EX\MRAM.arc_dir\mram\item\itembox_lan_bmd\Textures\mk_itembox64.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_spectrum1.tga
+
+newmtl mat_boxin.001_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_spectrum1.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_spectrum1.tga
+
+newmtl mat_boxout.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_mizutama1.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_mizutama1.tga
+
+newmtl mat_question.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_ques2.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\itembox_normal_bmd\\Textures\\mk_ques2.tga

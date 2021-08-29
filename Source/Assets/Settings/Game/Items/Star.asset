@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87171750d1d46a45abcb2b876dfbad1, type: 3}
+  m_Name: Star
+  m_EditorClassIdentifier: 
+  Name: Starman
+  prefab: {fileID: 0}
+  icon: {fileID: 21300000, guid: 2c250fba8ccd0df4780b939fdd6d6a4b, type: 3}
+  uses: 1
+  duration: 12.3
+  starMat: {fileID: 2100000, guid: 16ff4dbb69a6cd1418b434b834d69904, type: 2}
+  music:
+    name: starman
+    mainClip: {fileID: 8300000, guid: d92c481f39ad410409ac43b77db3a938, type: 3}
+    loopingClip: {fileID: 0}
+    loop: 1
+    volume: 1
+    pitch: 1
+    bank: 0
+    priorty: 128
+    canBeOverriten: 1
+    output: {fileID: 0}
+    source: {fileID: 0}
+  musicAi:
+    name: starmanai
+    mainClip: {fileID: 8300000, guid: 6548002e29fbc8240a7b8899d5c7564c, type: 3}
+    loopingClip: {fileID: 0}
+    loop: 1
+    volume: 0.5
+    pitch: 1
+    bank: 3
+    priorty: 200
+    canBeOverriten: 1
+    output: {fileID: 0}
+    source: {fileID: 0}
+    is3DSound: 1
+    doppler: 0.5
+    maxDistance: 125
+    distanceFade:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.0000008000061
+        value: 1
+        inSlope: -0.025864614
+        outSlope: -0.025864614
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.09104832
+      - serializedVersion: 3
+        time: 0.9984741
+        value: -0.0023498535
+        inSlope: -3.1040697
+        outSlope: -3.1040697
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.03500167
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  timer: 0

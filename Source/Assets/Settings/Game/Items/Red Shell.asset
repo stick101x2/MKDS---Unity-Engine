@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16e0349a4f244b4d82939a13820db0b, type: 3}
+  m_Name: Red Shell
+  m_EditorClassIdentifier: 
+  Name: Red Shell
+  prefab: {fileID: 8427096132499919624, guid: e2a64472d2dca9c44a1a0a4150c0dc45, type: 3}
+  icon: {fileID: 21300000, guid: 4ed01a720d321d340a3e85cf19568ca8, type: 3}
+  uses: 1
+  duration: 0

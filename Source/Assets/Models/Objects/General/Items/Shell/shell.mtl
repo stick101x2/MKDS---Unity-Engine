@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl shell_green_tx.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\tmoun\Desktop\Chromes\CHRISTOPHER STUFF\Games\sm64\dolphin\Mario Kart - Double Dash!! (USA)\Mario Kart - Double Dash!! (USA) EX\MRAM.arc_dir\mram\item\item_koura_green_bmd\Textures\shell_green_all2.tga
+map_d C:\\Users\\tmoun\\Desktop\\Chromes\\CHRISTOPHER STUFF\\Games\\sm64\\dolphin\\Mario Kart - Double Dash!! (USA)\\Mario Kart - Double Dash!! (USA) EX\\MRAM.arc_dir\\mram\\item\\item_koura_green_bmd\\Textures\\shell_green_all2.tga
